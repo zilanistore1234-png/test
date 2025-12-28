@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: "PixelSans";
+  src: url("/fonts/PixelSansSerif.ttf") format("truetype");
+}
+
+
+
+/* ✅ Global font (professional standard) */
+html,
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ 
+ 
+}
+
+
